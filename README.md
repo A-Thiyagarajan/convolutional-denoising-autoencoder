@@ -176,7 +176,8 @@ plt.show()
 
 
 ### AUTOENCODER.SUMMARY():
-![sum](summary.png)
+
+![summary](images/summary.png)
 
 
 ### Original vs Noisy Vs Reconstructed Image
